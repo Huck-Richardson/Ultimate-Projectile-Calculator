@@ -1,0 +1,24 @@
+Ultimate Projectile Calculator was coded by Huck Richardson
+This open source software, edit it all you want!
+THIS IS THE FULL VERSION
+
+If your going to use Scientist mode you really need to know what you're theoreticaly throwing, and
+the air density (kg/m), the aceleration due to gravity (m/s) and power output per kilogram. For normal you
+also need to know what you're throwing but not the more complex stuff. For Orc mode you all need is your 
+height and weight. You'll need to know all of this in SI units . If you want to throw things on other 
+planets consult the handy infomation below.
+
+
+If you want to see how far you can throw something on another planet see below.
+Mars: Acceleration due to Gravity = 3.7 mps | Atmospheric density = 0.02 kg/m
+Venus: Acceleration due to Gravity = 8.87 mps | Atmospheric density = 67 kg/m
+Jupiter (troposphere): Acceleration due to Gravity = 24.5 mps | Atmospheric density = 101971.6 kg/m
+Dagobah: Acceleration due to Gravity = 8.83 mps | Atmospheric density = 1.225 kg/m
+
+Helpful infomation for Scientist Mode
+Average Air Density at Sea Level = 1.225 kg/m
+Average Aceleration due to Gravity = 9.8 m/s
+Weight of a Baseball = 0.14 kilograms
+Cross Sectional Area of a Baseball = 0.01 meters
+1 kg = 2.2 lb, 1 m = 3.28 feet, m/2 = 2.24
+Power Ouput per kilogram = 10 for normal person, 20 for pro althlete
